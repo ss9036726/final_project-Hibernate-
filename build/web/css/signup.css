@@ -1,0 +1,24 @@
+body{
+    padding: 0;
+    margin: 0;
+    background: beige;
+}
+
+.container h1{
+    text-align: center;
+    margin-top: 20px;
+}
+
+.jumbotron{
+    background-color: transparent;
+}
+
+.form-group h3{
+    text-align: center;
+    margin-top: 20px;
+}
+
+.container-fluid h1{
+    text-align: center;
+    margin-top: 20px;
+}

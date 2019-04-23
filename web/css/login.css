@@ -1,0 +1,71 @@
+body{
+    padding: 0;
+    margin: 0;
+    background: url("../images/login.jpg") no-repeat center center fixed;;
+    background-size: cover;
+    
+}
+
+.box{
+    width: 600px;
+    margin: 120px auto;
+    padding: 20px;
+    color: white;
+    
+}
+
+.box .form{
+    background-color: rgba(245, 245, 220,0.4);
+    width: 450px;
+    padding: 30px;
+    border-radius: 10px;
+    -webkit-animation-name: example;
+    -webkit-animation-duration: 2s; 
+    animation-name: example;
+    animation-duration: 2s;
+}
+
+.form input{
+    height: 40px;
+    border-radius: 10px;
+    border: none;
+}
+
+.form label{
+    font-size: 20px;
+}
+
+.form h2{
+    font-size: 35px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.form button{
+    border-radius: 10px;
+}
+
+.form .btn-success{
+    border:none;
+    background-color: #007bff;
+    border-radius: 10px;
+    letter-spacing: .1rem;
+    font-weight: bold;
+    padding: 1rem;
+    transition: all 0.2s;
+}
+
+.form .btn-success:hover{
+    background-color: #06315f;
+    
+}
+
+@-webkit-keyframes example {
+    from {opacity: 0.3;}
+    to {opacity: 1;}
+}
+
+
+@keyframes example {
+    from {opacity: 0.3;}
+    to {opacity: 1;}
+}

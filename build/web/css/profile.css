@@ -1,0 +1,13 @@
+body{
+    padding: 0;
+    margin: 0;
+    background: url("../images/login.jpg") no-repeat center center fixed;;
+    background-size: cover;
+    
+}
+
+.jumbotron{
+    background-color: rgba(245, 245, 220,0.5);
+    padding: 30px;
+    border-radius: 10px;
+}

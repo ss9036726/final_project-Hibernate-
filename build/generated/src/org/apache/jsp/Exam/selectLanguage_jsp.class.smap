@@ -1,0 +1,20 @@
+SMAP
+selectLanguage_jsp.java
+JSP
+*S JSP
+*F
++ 0 selectLanguage.jsp
+Exam/selectLanguage.jsp
++ 1 CDN.jsp
+Exam/../CommonThings/CDN.jsp
+*L
+5,13:53
+1#1,4:66
+17#0,11:70
+28,9:82
+36:91
+37:92,6
+38:98
+38,3:99
+40,10:102
+*E
